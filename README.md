@@ -101,6 +101,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [sokoban-go](https://github.com/x-hgg-x/sokoban-go) - Sokoban game in Go using Ebiten game engine with ECS.
 * [arkanoid-go](https://github.com/x-hgg-x/arkanoid-go) - Arkanoid game in Go using Ebiten game engine with ECS.
 * [space-invaders-go](https://github.com/x-hgg-x/space-invaders-go) - Space invaders game in Go using Ebiten game engine with ECS.
+* [AAAAXY](https://divVerent.github.io/aaaaxy) - A nonlinear 2D puzzle platformer taking place in non-Euclidean geometry.
 
 
 ### Demoscenes
